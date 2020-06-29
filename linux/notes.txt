@@ -1,0 +1,23 @@
+Hopefully I'll remember to delete this
+
+List of supported keyboards are found at:
+    http://api.qmk.fm/v1/keyboards
+Specific hexes can be found at:
+    http://qmk.fm/compiled/<brand>_board>_<OPTIONAL:rev>_default.hex
+
+Microcontroller list found in common at:
+    common/mcu-list.txt
+
+
+Need the following bootloaders:
+    dfu-programmer (http://dfu-programmer.github.io/)
+    avrdude (http://nongnu.org/avrdude/)
+    Teensy Loader (https://pjrc.com/teensy/loader_cli.html)
+    dfu-util (http://dfu-util.sourceforge.net/)
+    Massdrop Loader (https://github.com/massdrop/mdloader)
+    bootloadHID (https://www.obdev.at/products/vusb/bootloadhid.html)
+
+ISP Flashers:
+    USBTiny (AVR Pocket)
+    AVRISP (Arduino ISP)
+    USBasp (AVR ISP)

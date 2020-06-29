@@ -313,3 +313,7 @@ qmk_toolbox.exe
 qmk_toolbox_install.exe
 QMK.Toolbox.app.zip
 QMK.Toolbox.pkg
+
+
+# Linux stuff
+linux/qmk_toolbox
