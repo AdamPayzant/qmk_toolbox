@@ -316,4 +316,9 @@ QMK.Toolbox.pkg
 
 
 # Linux stuff
-linux/qmk_toolbox
+linux/QMK_Toolbox
+linux/.qmake.stash
+linux/*.o
+linux/Makefile
+linux/moc*
+linux/ui_mainwindow.h

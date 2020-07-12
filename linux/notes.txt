@@ -21,3 +21,6 @@ ISP Flashers:
     USBTiny (AVR Pocket)
     AVRISP (Arduino ISP)
     USBasp (AVR ISP)
+
+Concerns:
+    Currently all flashers are included as binaries. I don't fully trust this as binaries between distros sometimes creates issues
